@@ -28,7 +28,7 @@ Etapa 3:
 
 
 ## Conclusão
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado substituir despesas fixas por despesas variáveis, visto que o pagamento só ocorre conforme o uso, permite escalabilidade horizontal automática de servidores conforme o volume de requisições aumenta ou diminui, e permite foco no desenvolvimento visto que a AWS será responsável pelo provisionamento de novos servidores e gerenciamento dos produtos serverless na nuvem, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
